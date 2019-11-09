@@ -39,5 +39,5 @@ h2 {
 }
 
 #featured > img {
-  border: rgb(152,173,166);
+  border: rgb(152,173,166) solid;
 }
