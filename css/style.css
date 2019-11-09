@@ -7,6 +7,10 @@
   src: url(Baskerville.ttc);
 }
 
+h1 {
+  font-family: Baskerville
+}
+
 /*////////// Global Styles //////////*/
 
 body {
